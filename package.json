@@ -1,6 +1,6 @@
 {
   "name": "@codeblito/codeblitocomponents",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "components for educational purposes",
   "main": "src/index.js",
   "scripts": {
