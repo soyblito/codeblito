@@ -1,10 +1,10 @@
 import React from 'react';
-
+import 'styles.css';
 
 const Button = ({title}) => {  
 
   return (
-    <div>
+    <div className='wrapper'>
       <button>{title}</button>
     </div>
   )
