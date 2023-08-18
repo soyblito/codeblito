@@ -1,20 +1,20 @@
 {
-  "name": "gluckcomponents",
+  "name": "@codeblito/codeblitocomponents",
   "version": "1.0.3",
-  "description": "",
+  "description": "components for educational purposes",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "blito",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/soyblito/gluckcomponents.git"
+    "url": "git+https://github.com/soyblito/codeblitocomponents.git"
   },
   "bugs": {
-    "url": "https://github.com/soyblito/gluckcomponents/issues"
+    "url": "https://github.com/soyblito/codeblitocomponents/issues"
   },
-  "homepage": "https://github.com/soyblito/gluckcomponents#readme"
+  "homepage": "https://github.com/soyblito/codeblitocomponents#readme"
 }
